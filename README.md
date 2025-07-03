@@ -55,17 +55,19 @@ Live Demo 👉 [https://movie-shivanshom.vercel.app/](https://movie-shivanshom.v
 git clone https://github.com/Shivanshom/movie.git
 cd movie
 npm install
+```
 
 🔑 Setup Environment
 Create a .env file in the root:
 ```bash
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
 VITE_TMDB_BASE_URL=https://api.themoviedb.org/3
+```
 
 Then:
 ```bash
 npm run dev
-
+```
 
 🙋‍♂️ Author
 Made with ❤️ by Shivansh Srivastava
